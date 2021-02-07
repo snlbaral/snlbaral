@@ -7,7 +7,7 @@
 - 💬 Ask me about PHP, JS
 - 📫 How to reach me: snlbaral@gmail.com
 - 😄 Pronouns: Sunil Baral
-- ⚡ Fun fact: I code when i'm bored. And i'm borded 24/7
+- ⚡ Fun fact: I code when i'm bored. And i'm bored 24/7
 
 ### Highlights ✨
 
