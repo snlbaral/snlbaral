@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Full Stack Web Developer
-- 🌱 I’m currently learning TypeScript
-- 👯 I’m looking to collaborate on Laravel Projects
+- 🌱 I’m currently learning Hadoop Ecosystem
+- 👯 I’m looking to collaborate on Big Data Projects
 - 🤔 I’m looking for help with Search Engine Algorithm
 - 💬 Ask me about PHP, JS
 - 📫 How to reach me: snlbaral@gmail.com
