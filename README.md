@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working as Full Stack Web Developer
-- 🌱 I’m currently learning Hadoop Ecosystem
+- 🌱 I’m currently learning Java ~ Hadoop Ecosystem
 - 👯 I’m looking to collaborate on Big Data Projects
 - 🤔 I’m looking for help with Search Engine Algorithm
 - 💬 Ask me about PHP, JS
